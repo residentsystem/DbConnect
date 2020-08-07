@@ -1,0 +1,11 @@
+{
+  "Database1": {
+    "ConnectionString": "server=localhost;port=3306;database=database;user=user;password=Password",
+    "SqlCommand": "SELECT bookmarks.Name FROM website.bookmarks"
+  },
+
+  "Database2": {
+    "ConnectionString": "server=localhost;port=3306;database=database;user=user;password=Password",
+    "SqlCommand": "SELECT * FROM database.table"
+  }
+}
